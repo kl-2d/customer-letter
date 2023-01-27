@@ -1,0 +1,15 @@
+C:\Users\kl2d\formatString\bin\Debug\net7.0\formatString.exe
+C:\Users\kl2d\formatString\bin\Debug\net7.0\formatString.deps.json
+C:\Users\kl2d\formatString\bin\Debug\net7.0\formatString.runtimeconfig.json
+C:\Users\kl2d\formatString\bin\Debug\net7.0\formatString.dll
+C:\Users\kl2d\formatString\bin\Debug\net7.0\formatString.pdb
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.csproj.AssemblyReference.cache
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.AssemblyInfoInputs.cache
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.AssemblyInfo.cs
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.csproj.CoreCompileInputs.cache
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.dll
+C:\Users\kl2d\formatString\obj\Debug\net7.0\refint\formatString.dll
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.pdb
+C:\Users\kl2d\formatString\obj\Debug\net7.0\formatString.genruntimeconfig.cache
+C:\Users\kl2d\formatString\obj\Debug\net7.0\ref\formatString.dll
